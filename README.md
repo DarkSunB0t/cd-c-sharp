@@ -1,4 +1,4 @@
-# Csharp-drafts
+# cd is my Code Drafts
 
 Set of my draft-tempelates studying C#, maybe it will be useful (at least for me).
 
